@@ -69,7 +69,7 @@ this are provided in the included settings.example - this should be renamed to s
 any relevant changes made.
 
 2) In order to run DP5 a python 3.6+ environment the following packages are required:
-numpy scipy Cython matplotlib nmrglue statsmodels lmfit openbabel rdkit pathos
+numpy scipy Cython matplotlib nmrglue statsmodels lmfit openbabel rdkit pathos and qml
 Additionally, the graphical user interface requires PyQT5
 
 3) RDKit and OpenBabel are required for the automatic diastereomer generation and
